@@ -1,7 +1,7 @@
-Earth has many continent
+Earth has continent
 Africa
 Asia
 Europe
 America
 Greenland
-
+states and capital
