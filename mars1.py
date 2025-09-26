@@ -5,3 +5,5 @@ Europe
 America
 Greenland
 states and capital
+Abia 
+Adamawa
